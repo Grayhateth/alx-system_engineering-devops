@@ -1,1 +1,1 @@
-readme file new
+a script that prints “Hello, World”
